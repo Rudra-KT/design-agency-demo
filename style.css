@@ -53,6 +53,7 @@ footer {
   .card{
     display: block;
     width: 100%;
+    text-align: justify;
     margin-bottom: 20px;
   }
   .card img{
